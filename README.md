@@ -1,6 +1,6 @@
 # Votol FD – layout mạch và vỏ hộp ND
 
-Đây là dự án chia sẻ bộ bản vẽ cá nhân cho layout mạch Votol và vỏ hộp ND. Tác giả không còn sử dụng thiết kế này nên công khai để cộng đồng tham khảo, kiểm tra và tự hoàn thiện.
+Đây là dự án chia sẻ bộ bản vẽ cá nhân cho layout mạch Votol và vỏ hộp ND. Tác giả không còn sử dụng thiết kế này nên công khai để cộng đồng tham khảo, kiểm tra và tự hoàn thiện. Toàn bộ tệp được tải xuống miễn phí.
 
 ## Tệp trong dự án
 
@@ -26,7 +26,7 @@ Bạn có thể mở issue hoặc gửi pull request để góp ý và hoàn thi
 
 # Votol FD – PCB and ND enclosure layout
 
-This is a shared project containing personal Votol PCB and ND enclosure layout files. The author no longer uses the design and is making it public so the community can review and complete it.
+This is a shared project containing personal Votol PCB and ND enclosure layout files. The author no longer uses the design and is making it public so the community can review and complete it. All files are free to download.
 
 The `.lay6` files were created with **Sprint Layout 6.0**. Use Sprint Layout 6.0 to open and edit them. The PNG is only a preview. `Firmware STM32F103C8T6 .bin` is the program file for that MCU. `schh.exe` is the accompanying Windows application; it is unsigned and has not been checked for safety. This project is provided as-is and has not been validated for fabrication or operation. The author accepts no responsibility for loss, manufacturing defects, or other consequences resulting from its use. Users are responsible for reviewing the electrical design, dimensions, components, insulation, thermal behavior, and safety before manufacturing or powering it.
 
