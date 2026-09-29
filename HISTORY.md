@@ -13,6 +13,7 @@
 - Chỉnh README nêu rõ dự án chỉ để tham khảo và người dùng tự chịu mọi rủi ro.
 - Gỡ `schh.exe` khỏi thư mục dự án và phiên bản hiện tại trên GitHub theo yêu cầu. Lịch sử commit cũ vẫn chứa bản đã công khai trước đó.
 - Bổ sung ghi chú linh kiện tham khảo do tác giả cung cấp vào README tiếng Việt và tiếng Anh; ghi rõ chưa được kiểm chứng độc lập.
+- Bổ sung thông tin ứng dụng Votol và tốc độ giao tiếp nối tiếp 9600 baud theo ghi chú của tác giả.
 - SHA-256 trước chỉnh sửa (các bản vẽ đã lưu ở dạng gốc): `PCB driver U3216.lay6` `dfddb5f49167d72bb4e7857de43e192beecf43d4d79d3a15f51b9f66208e0396`; `pcb fet 30 8pin.lay6` `4c1992a2b2cc356d321f1b8cb29ce0f58197a74b8b4a5ffc0ff0b94dd9355e4a`; `main fet.jpg` `9ae333aba1728112f958697a9d7cb7663159e20c573153aa01d9214d31036cb1`; `pcb driver .png` `02cea3918304295951013b897f519da06f97905d21071d2ed0cf7c330bdef18f`; `CHAN CHUC NANG NEWW.pdf` `a783e75d6a2955f18bdb1ef4f58703f753939f8a9788721cc103daae7c80b85c`.
 - SHA-256 sau chỉnh sửa: `PCB driver U3216.lay6` `748b3d95768913eb10c0233f95c6b02bf5fac116ddfac4e6215c3e315ebd3dd2`; `pcb fet 30 8pin.lay6` `13faadc091af48975f151f4840ab248b52e0fc880d944004df9fd7a4fc80c096`.
 - Giấy phép chưa được chọn; cần thống nhất trước khi người khác sử dụng hoặc phân phối thiết kế.

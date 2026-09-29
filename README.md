@@ -24,6 +24,7 @@ Theo ghi chú do tác giả cung cấp; chưa được kiểm chứng độc l�
 - IC driver MOSFET: U3216 hoặc IR21867.
 - Hai IC op-amp: TP102 hoặc SD06.
 - IC bảo vệ quá dòng 5 chân: LMV331.
+- Tệp firmware `.bin` dùng với ứng dụng Votol qua cổng nối tiếp ở tốc độ 9600 baud.
 
 ## Trạng thái
 
@@ -52,5 +53,6 @@ As provided by the author; not independently verified:
 - MOSFET driver IC: U3216 or IR21867.
 - Two op-amp ICs: TP102 or SD06.
 - 5-pin overcurrent-protection IC: LMV331.
+- The `.bin` firmware is used with the Votol application over a serial connection at 9600 baud.
 
 The repository currently has no license. Public visibility alone does not grant permission to use, modify, or redistribute these files. Check the repository's License section before using them.
