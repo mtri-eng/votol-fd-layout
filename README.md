@@ -9,6 +9,8 @@
 - `pcb driver .png` — ảnh xem trước PCB driver.
 - `main fet.jpg` — ảnh tham chiếu của bản vẽ PCB FET.
 - `CHAN CHUC NANG NEWW.pdf` — tài liệu chức năng đi kèm.
+- `Firmware STM32F103C8T6 .bin` — tệp chương trình cho STM32F103C8T6.
+- `schh.exe` — ứng dụng Windows đi kèm; chưa được kiểm tra hoặc xác nhận an toàn.
 
 Các tệp `.lay6` được tạo bằng **Sprint Layout 6.0**. Dùng Sprint Layout 6.0 để mở và chỉnh sửa; ảnh PNG là ảnh xem trước, không thay thế dữ liệu thiết kế.
 
@@ -26,6 +28,6 @@ Bạn có thể mở issue hoặc gửi pull request để góp ý và hoàn thi
 
 This is a shared project containing personal Votol PCB and ND enclosure layout files. The author no longer uses the design and is making it public so the community can review and complete it.
 
-The `.lay6` files were created with **Sprint Layout 6.0**. Use Sprint Layout 6.0 to open and edit them. The PNG is only a preview. This project is provided as-is and has not been validated for fabrication or operation. The author accepts no responsibility for loss, manufacturing defects, or other consequences resulting from its use. Users are responsible for reviewing the electrical design, dimensions, components, insulation, thermal behavior, and safety before manufacturing or powering it.
+The `.lay6` files were created with **Sprint Layout 6.0**. Use Sprint Layout 6.0 to open and edit them. The PNG is only a preview. `Firmware STM32F103C8T6 .bin` is the program file for that MCU. `schh.exe` is the accompanying Windows application; it is unsigned and has not been checked for safety. This project is provided as-is and has not been validated for fabrication or operation. The author accepts no responsibility for loss, manufacturing defects, or other consequences resulting from its use. Users are responsible for reviewing the electrical design, dimensions, components, insulation, thermal behavior, and safety before manufacturing or powering it.
 
 The repository currently has no license. Public visibility alone does not grant permission to use, modify, or redistribute these files. Check the repository's License section before using them.
